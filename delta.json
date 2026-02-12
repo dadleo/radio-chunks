@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "version": "3e77defd",
+    "timestamp": 1770897992,
+    "total_stations": 8721,
+    "added": 47,
+    "deleted": 0
+  },
+  "changes": [
+    {
+      "uuid": "ce06b773-a03c-4c71-b8de-197aff7f6759",
+      "action": "add"
+    },
+    {
+      "uuid": "804a9c38-d831-478b-acc5-df20e0740241",
+      "action": "add"
+    },
+    {
+      "uuid": "283ff0b4-6fcf-4178-be8c-bded51c0a374",
+      "action": "add"
+    },
+    {
+      "uuid": "f6fb04c5-1328-4b05-96b7-7cb96a7b9bf6",
+      "action": "add"
+    },
+    {
+      "uuid": "c37e5228-a11d-45ed-a49b-2f376bb6d8e7",
+      "action": "add"
+    },
+    {
+      "uuid": "c48e2d5b-d1d9-4309-b27c-95dba5c181ce",
+      "action": "add"
+    },
+    {
+      "uuid": "f6c26185-0944-45f0-8992-54ba74758b59",
+      "action": "add"
+    },
+    {
+      "uuid": "c718b733-773a-4156-b70b-293df2ed129e",
+      "action": "add"
+    },
+    {
+      "uuid": "230505d5-eb2a-48fd-87fd-d10d1bc7f0dc",
+      "action": "add"
+    },
+    {
+      "uuid": "7bfe222c-6b98-4aec-8550-93c491bb2d1f",
+      "action": "add"
+    },
+    {
+      "uuid": "bf854fd9-1b69-4e20-8277-09532e6591f1",
+      "action": "add"
+    },
+    {
+      "uuid": "7d079d12-4e88-4a1c-a328-623664318f21",
+      "action": "add"
+    },
+    {
+      "uuid": "86a75bc0-431d-4a8a-a4f9-f464a3ca98a3",
+      "action": "add"
+    },
+    {
+      "uuid": "0d67eaf8-97de-4118-8699-31ab23e06099",
+      "action": "add"
+    },
+    {
+      "uuid": "727cebaf-48c5-4c35-8988-d7fedce8055c",
+      "action": "add"
+    },
+    {
+      "uuid": "560e0caf-8e29-42ac-91c9-a37f71625ffc",
+      "action": "add"
+    },
+    {
+      "uuid": "4109e374-c310-4690-8455-c36e717a6e20",
+      "action": "add"
+    },
+    {
+      "uuid": "0ed0b12c-4102-4607-b99b-a596b3b3bea1",
+      "action": "add"
+    },
+    {
+      "uuid": "c5bf1e06-3373-47f1-af77-93a3a82232d0",
+      "action": "add"
+    },
+    {
+      "uuid": "87069ec6-7cfc-446d-b1be-e56c8b8d2287",
+      "action": "add"
+    },
+    {
+      "uuid": "262618b1-04fc-468f-b267-5d6c01a5dc07",
+      "action": "add"
+    },
+    {
+      "uuid": "34302034-8a2e-401b-a2fb-92e21cb19fc7",
+      "action": "add"
+    },
+    {
+      "uuid": "4163f500-a509-4a0b-bc51-21a65504cdd0",
+      "action": "add"
+    },
+    {
+      "uuid": "5ede37ba-a332-4607-b0c6-2469318c3649",
+      "action": "add"
+    },
+    {
+      "uuid": "49499424-92f5-42f1-97a0-ea0e778c5759",
+      "action": "add"
+    },
+    {
+      "uuid": "dd9fbcab-d09e-4463-ae02-b06a86b76721",
+      "action": "add"
+    },
+    {
+      "uuid": "8a15a9d8-9d83-4671-8d43-1b616f63beef",
+      "action": "add"
+    },
+    {
+      "uuid": "a0fe9ad0-ff20-4e8c-913c-781aad3516bb",
+      "action": "add"
+    },
+    {
+      "uuid": "09583181-fc2c-4e96-b432-55bbeacd040b",
+      "action": "add"
+    },
+    {
+      "uuid": "ae600421-cec3-4913-87d6-ff3669498de1",
+      "action": "add"
+    },
+    {
+      "uuid": "ae2471de-0487-4cda-ab4d-15d6a355a16a",
+      "action": "add"
+    },
+    {
+      "uuid": "ef3bdb34-0274-41b7-a8df-c10591ed835d",
+      "action": "add"
+    },
+    {
+      "uuid": "f9bc14bf-6600-4eba-8690-3124a80624ac",
+      "action": "add"
+    },
+    {
+      "uuid": "74288ff4-a65a-489f-a742-3b25513b3c34",
+      "action": "add"
+    },
+    {
+      "uuid": "a2624589-8279-4be3-9ea0-514dcd29cef8",
+      "action": "add"
+    },
+    {
+      "uuid": "7e194d4b-3d76-46e0-be42-a7f527788927",
+      "action": "add"
+    },
+    {
+      "uuid": "495ac9d1-c17b-4819-829e-32fe01980e96",
+      "action": "add"
+    },
+    {
+      "uuid": "92e54586-a480-4e8b-9771-07a1879e4985",
+      "action": "add"
+    },
+    {
+      "uuid": "fbd8437c-f269-419f-b99a-863c930e522f",
+      "action": "add"
+    },
+    {
+      "uuid": "91589c03-9703-4c27-89b3-3aa56276b716",
+      "action": "add"
+    },
+    {
+      "uuid": "42f795dc-e6e7-4f2c-8f5b-0f904b221ba6",
+      "action": "add"
+    },
+    {
+      "uuid": "c89e0869-1247-4d43-9a96-84a4e1524b0b",
+      "action": "add"
+    },
+    {
+      "uuid": "01c848bc-d6a3-41b9-9683-57b0e471c340",
+      "action": "add"
+    },
+    {
+      "uuid": "32269fbf-4191-40ae-ae41-2d9ecb936c0e",
+      "action": "add"
+    },
+    {
+      "uuid": "ce72ed25-202f-4e8d-9198-998a16c6be59",
+      "action": "add"
+    },
+    {
+      "uuid": "7ad24348-a4d4-48e1-9293-8d52904244ac",
+      "action": "add"
+    },
+    {
+      "uuid": "cdc85134-808c-484a-a95a-410c612e2abe",
+      "action": "add"
+    }
+  ]
+}
