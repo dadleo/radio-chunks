@@ -1,199 +1,1470 @@
 {
   "meta": {
-    "version": "3e77defd",
-    "timestamp": 1770897992,
-    "total_stations": 8721,
-    "added": 47,
-    "deleted": 0
+    "version": "a7800910",
+    "timestamp": 1771163186,
+    "total_stations": 8711,
+    "changes_count": 177,
+    "added": 107,
+    "deleted": 70,
+    "updated": 0
   },
   "changes": [
     {
-      "uuid": "ce06b773-a03c-4c71-b8de-197aff7f6759",
-      "action": "add"
+      "uuid": "f6c26185-0944-45f0-8992-54ba74758b59",
+      "action": "add",
+      "data": {
+        "name": "Magic Radio Herentals",
+        "lat": 51.17290823985229,
+        "lng": 4.840915099731684,
+        "votes": 15,
+        "chunk": "chunk_7_5.json"
+      }
     },
     {
-      "uuid": "804a9c38-d831-478b-acc5-df20e0740241",
-      "action": "add"
+      "uuid": "62c15aba-1d58-4547-9cb5-f26d556e1f8a",
+      "action": "add",
+      "data": {
+        "name": "Conquista WebStation Brazil",
+        "lat": 50.890040343621834,
+        "lng": -71.89453125000001,
+        "votes": 14,
+        "chunk": "chunk_7_3.json"
+      }
     },
     {
-      "uuid": "283ff0b4-6fcf-4178-be8c-bded51c0a374",
-      "action": "add"
+      "uuid": "2394005e-e949-4e6b-a068-20c8dfe9d775",
+      "action": "add",
+      "data": {
+        "name": "Earthly Foreigner Radio Broadcast",
+        "lat": 36.085861707888334,
+        "lng": -119.06761407852174,
+        "votes": 5,
+        "chunk": "chunk_7_1.json"
+      }
     },
     {
-      "uuid": "f6fb04c5-1328-4b05-96b7-7cb96a7b9bf6",
-      "action": "add"
-    },
-    {
-      "uuid": "c37e5228-a11d-45ed-a49b-2f376bb6d8e7",
-      "action": "add"
+      "uuid": "a56e3f60-5131-47cf-af86-6576e1e04a2a",
+      "action": "add",
+      "data": {
+        "name": "+Cumbias Inmortales Radio (MTY) - Online - www.cumbiasinmortales.com - Grupo Digital Retroland - Monterrey, Nuevo Le\u00f3n",
+        "lat": 25.680172845157298,
+        "lng": -100.31453132629396,
+        "votes": 2,
+        "chunk": "chunk_6_2.json"
+      }
     },
     {
       "uuid": "c48e2d5b-d1d9-4309-b27c-95dba5c181ce",
-      "action": "add"
+      "action": "add",
+      "data": {
+        "name": "MelindaFM",
+        "lat": 51.18093190885211,
+        "lng": 2.897729873657227,
+        "votes": 122,
+        "chunk": "chunk_7_5.json"
+      }
     },
     {
-      "uuid": "f6c26185-0944-45f0-8992-54ba74758b59",
-      "action": "add"
+      "uuid": "7a66305d-91cc-4274-a646-ff5179e3e6a1",
+      "action": "add",
+      "data": {
+        "name": "BandNews FM Belo Horizonte",
+        "lat": -19.95573291180845,
+        "lng": -43.957824602602265,
+        "votes": 0,
+        "chunk": "chunk_3_3.json"
+      }
     },
     {
-      "uuid": "c718b733-773a-4156-b70b-293df2ed129e",
-      "action": "add"
-    },
-    {
-      "uuid": "230505d5-eb2a-48fd-87fd-d10d1bc7f0dc",
-      "action": "add"
-    },
-    {
-      "uuid": "7bfe222c-6b98-4aec-8550-93c491bb2d1f",
-      "action": "add"
-    },
-    {
-      "uuid": "bf854fd9-1b69-4e20-8277-09532e6591f1",
-      "action": "add"
-    },
-    {
-      "uuid": "7d079d12-4e88-4a1c-a328-623664318f21",
-      "action": "add"
-    },
-    {
-      "uuid": "86a75bc0-431d-4a8a-a4f9-f464a3ca98a3",
-      "action": "add"
-    },
-    {
-      "uuid": "0d67eaf8-97de-4118-8699-31ab23e06099",
-      "action": "add"
-    },
-    {
-      "uuid": "727cebaf-48c5-4c35-8988-d7fedce8055c",
-      "action": "add"
-    },
-    {
-      "uuid": "560e0caf-8e29-42ac-91c9-a37f71625ffc",
-      "action": "add"
-    },
-    {
-      "uuid": "4109e374-c310-4690-8455-c36e717a6e20",
-      "action": "add"
-    },
-    {
-      "uuid": "0ed0b12c-4102-4607-b99b-a596b3b3bea1",
-      "action": "add"
-    },
-    {
-      "uuid": "c5bf1e06-3373-47f1-af77-93a3a82232d0",
-      "action": "add"
-    },
-    {
-      "uuid": "87069ec6-7cfc-446d-b1be-e56c8b8d2287",
-      "action": "add"
-    },
-    {
-      "uuid": "262618b1-04fc-468f-b267-5d6c01a5dc07",
-      "action": "add"
-    },
-    {
-      "uuid": "34302034-8a2e-401b-a2fb-92e21cb19fc7",
-      "action": "add"
-    },
-    {
-      "uuid": "4163f500-a509-4a0b-bc51-21a65504cdd0",
-      "action": "add"
-    },
-    {
-      "uuid": "5ede37ba-a332-4607-b0c6-2469318c3649",
-      "action": "add"
-    },
-    {
-      "uuid": "49499424-92f5-42f1-97a0-ea0e778c5759",
-      "action": "add"
-    },
-    {
-      "uuid": "dd9fbcab-d09e-4463-ae02-b06a86b76721",
-      "action": "add"
-    },
-    {
-      "uuid": "8a15a9d8-9d83-4671-8d43-1b616f63beef",
-      "action": "add"
-    },
-    {
-      "uuid": "a0fe9ad0-ff20-4e8c-913c-781aad3516bb",
-      "action": "add"
+      "uuid": "88ec6e1f-f720-432f-a3eb-5cd504d51f07",
+      "action": "add",
+      "data": {
+        "name": "The Bluegrass Jamboree",
+        "lat": 35.463612206159624,
+        "lng": -78.15733241683672,
+        "votes": 4,
+        "chunk": "chunk_6_2.json"
+      }
     },
     {
       "uuid": "09583181-fc2c-4e96-b432-55bbeacd040b",
-      "action": "add"
+      "action": "add",
+      "data": {
+        "name": "Radio Fonlord",
+        "lat": 51.005920345490104,
+        "lng": 14.451171814683592,
+        "votes": 8,
+        "chunk": "chunk_7_5.json"
+      }
     },
     {
-      "uuid": "ae600421-cec3-4913-87d6-ff3669498de1",
-      "action": "add"
+      "uuid": "7d079d12-4e88-4a1c-a328-623664318f21",
+      "action": "add",
+      "data": {
+        "name": "Top (BAM)",
+        "lat": 51.07417926258547,
+        "lng": 3.723227977752686,
+        "votes": 17,
+        "chunk": "chunk_7_5.json"
+      }
     },
     {
-      "uuid": "ae2471de-0487-4cda-ab4d-15d6a355a16a",
-      "action": "add"
+      "uuid": "a0fe9ad0-ff20-4e8c-913c-781aad3516bb",
+      "action": "add",
+      "data": {
+        "name": "Radio BaHeNa - Baarle-Hertog, Be",
+        "lat": 51.43760475695224,
+        "lng": 4.932568399010276,
+        "votes": 9,
+        "chunk": "chunk_7_5.json"
+      }
     },
     {
-      "uuid": "ef3bdb34-0274-41b7-a8df-c10591ed835d",
-      "action": "add"
+      "uuid": "c37e5228-a11d-45ed-a49b-2f376bb6d8e7",
+      "action": "add",
+      "data": {
+        "name": "Villa Bota",
+        "lat": 51.207057487173,
+        "lng": 3.230637609958649,
+        "votes": 22,
+        "chunk": "chunk_7_5.json"
+      }
     },
     {
-      "uuid": "f9bc14bf-6600-4eba-8690-3124a80624ac",
-      "action": "add"
-    },
-    {
-      "uuid": "74288ff4-a65a-489f-a742-3b25513b3c34",
-      "action": "add"
-    },
-    {
-      "uuid": "a2624589-8279-4be3-9ea0-514dcd29cef8",
-      "action": "add"
-    },
-    {
-      "uuid": "7e194d4b-3d76-46e0-be42-a7f527788927",
-      "action": "add"
-    },
-    {
-      "uuid": "495ac9d1-c17b-4819-829e-32fe01980e96",
-      "action": "add"
-    },
-    {
-      "uuid": "92e54586-a480-4e8b-9771-07a1879e4985",
-      "action": "add"
-    },
-    {
-      "uuid": "fbd8437c-f269-419f-b99a-863c930e522f",
-      "action": "add"
-    },
-    {
-      "uuid": "91589c03-9703-4c27-89b3-3aa56276b716",
-      "action": "add"
-    },
-    {
-      "uuid": "42f795dc-e6e7-4f2c-8f5b-0f904b221ba6",
-      "action": "add"
-    },
-    {
-      "uuid": "c89e0869-1247-4d43-9a96-84a4e1524b0b",
-      "action": "add"
-    },
-    {
-      "uuid": "01c848bc-d6a3-41b9-9683-57b0e471c340",
-      "action": "add"
-    },
-    {
-      "uuid": "32269fbf-4191-40ae-ae41-2d9ecb936c0e",
-      "action": "add"
-    },
-    {
-      "uuid": "ce72ed25-202f-4e8d-9198-998a16c6be59",
-      "action": "add"
-    },
-    {
-      "uuid": "7ad24348-a4d4-48e1-9293-8d52904244ac",
-      "action": "add"
+      "uuid": "7442e515-80a7-4ac5-9e06-a5e4880ea811",
+      "action": "add",
+      "data": {
+        "name": "fairchildren radio",
+        "lat": 16.933332619157774,
+        "lng": 9.404296875000002,
+        "votes": 185,
+        "chunk": "chunk_5_5.json"
+      }
     },
     {
       "uuid": "cdc85134-808c-484a-a95a-410c612e2abe",
-      "action": "add"
+      "action": "add",
+      "data": {
+        "name": "Radio Gompel  105,6 FM , Mol, be",
+        "lat": 51.19220220879563,
+        "lng": 5.15047588341528,
+        "votes": 17,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "6b650c01-3967-4156-af32-0337ed6a9b19",
+      "action": "add",
+      "data": {
+        "name": "Electro Radio",
+        "lat": 46.86620038091033,
+        "lng": 9.250488281250002,
+        "votes": 0,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "e7b08b46-1855-49ec-84f8-c4bcb0d6bd95",
+      "action": "add",
+      "data": {
+        "name": "Radio Bielsko",
+        "lat": 49.82680604676875,
+        "lng": 19.049949645996097,
+        "votes": 1,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "61c85e4f-0885-4891-860e-e179aa1516d8",
+      "action": "add",
+      "data": {
+        "name": "SweetRadio",
+        "lat": 44.59833728136361,
+        "lng": 10.815610885620115,
+        "votes": 2,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "93fbc908-ad0f-4fec-977b-b6296f89a9f1",
+      "action": "add",
+      "data": {
+        "name": "Lo-Fi Halloween and Chill",
+        "lat": 43.0440448,
+        "lng": -76.234752,
+        "votes": 56,
+        "chunk": "chunk_7_2.json"
+      }
+    },
+    {
+      "uuid": "c5bf1e06-3373-47f1-af77-93a3a82232d0",
+      "action": "add",
+      "data": {
+        "name": "Radio TRL",
+        "lat": 51.24431075758926,
+        "lng": 3.5182401537895207,
+        "votes": 10,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "9513a5a0-481a-4250-b136-ef97b0fa01d4",
+      "action": "add",
+      "data": {
+        "name": "Plains FM 96.9",
+        "lat": 28.723629275173927,
+        "lng": 33.04687500000001,
+        "votes": 17,
+        "chunk": "chunk_6_5.json"
+      }
+    },
+    {
+      "uuid": "e2f8a671-835a-4223-ad0f-33ac7aa9ed05",
+      "action": "add",
+      "data": {
+        "name": "DnB&EDM",
+        "lat": 51.299925466442645,
+        "lng": 10.118408203125002,
+        "votes": 1471,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "171259e7-3712-4ce4-9af8-602eab100870",
+      "action": "add",
+      "data": {
+        "name": "Lo-Fi Halloween and Chill",
+        "lat": 43.0440448,
+        "lng": -76.234752,
+        "votes": 63,
+        "chunk": "chunk_7_2.json"
+      }
+    },
+    {
+      "uuid": "ae2471de-0487-4cda-ab4d-15d6a355a16a",
+      "action": "add",
+      "data": {
+        "name": "Radio Reflex",
+        "lat": 51.02666199354794,
+        "lng": 4.483623504638673,
+        "votes": 23,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "df2bebf3-5469-4000-8707-0b66bf45a130",
+      "action": "add",
+      "data": {
+        "name": "   Radio Disney 94.3 - Buenos Aires, Argentina",
+        "lat": -34.60159629396779,
+        "lng": -58.38469505310059,
+        "votes": 122,
+        "chunk": "chunk_3_3.json"
+      }
+    },
+    {
+      "uuid": "495ac9d1-c17b-4819-829e-32fe01980e96",
+      "action": "add",
+      "data": {
+        "name": "YOLO - Life is like a dance",
+        "lat": 51.146415437884514,
+        "lng": 5.74310302734375,
+        "votes": 222,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "c117353b-a26a-47c6-a060-67eb17affc17",
+      "action": "add",
+      "data": {
+        "name": "Radio Narcan",
+        "lat": 50.11034785569115,
+        "lng": 8.676795959472658,
+        "votes": 0,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "49499424-92f5-42f1-97a0-ea0e778c5759",
+      "action": "add",
+      "data": {
+        "name": "Kerstradio Noordzee",
+        "lat": 51.22666790215268,
+        "lng": 2.918930053710938,
+        "votes": 7,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "44eb1d4e-3a57-4f16-8213-1dd487d176cd",
+      "action": "add",
+      "data": {
+        "name": "Wagenbergtotaal",
+        "lat": 50.92381327191293,
+        "lng": 2.7795410156250004,
+        "votes": 0,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "f5afd8ea-e51e-43fe-bcfc-060135562357",
+      "action": "add",
+      "data": {
+        "name": " LA RANCHERA DE MONTERREY 1050 (MTY) - 1050 AM - XEG-AM - N\u00facleo Radio Monterrey - Monterrey, Nuevo Le\u00f3n",
+        "lat": 25.68141048571951,
+        "lng": -100.3172779083252,
+        "votes": 2,
+        "chunk": "chunk_6_2.json"
+      }
+    },
+    {
+      "uuid": "8fdec07b-b808-4844-a370-6325009e11c4",
+      "action": "add",
+      "data": {
+        "name": "Bhaktiworld Media Krishna",
+        "lat": -33.792843773631844,
+        "lng": 25.839843750000004,
+        "votes": 78,
+        "chunk": "chunk_3_5.json"
+      }
+    },
+    {
+      "uuid": "727cebaf-48c5-4c35-8988-d7fedce8055c",
+      "action": "add",
+      "data": {
+        "name": "Lux FM",
+        "lat": 43.41701888881106,
+        "lng": 24.61967468261719,
+        "votes": 95,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "854c6952-f9bc-48e8-a791-985d95138a0e",
+      "action": "add",
+      "data": {
+        "name": "REGENBOGEN 2 - 80ER ROCK",
+        "lat": 48.177805362948135,
+        "lng": -67.85156250000001,
+        "votes": 19,
+        "chunk": "chunk_7_3.json"
+      }
+    },
+    {
+      "uuid": "4109e374-c310-4690-8455-c36e717a6e20",
+      "action": "add",
+      "data": {
+        "name": "Soul Rhythms Radio UK",
+        "lat": 51.38378095727871,
+        "lng": 0.0,
+        "votes": 6,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "283ff0b4-6fcf-4178-be8c-bded51c0a374",
+      "action": "add",
+      "data": {
+        "name": "Noordzee Gold",
+        "lat": 51.22688290443737,
+        "lng": 2.9182434082031254,
+        "votes": 13,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "dd9fbcab-d09e-4463-ae02-b06a86b76721",
+      "action": "add",
+      "data": {
+        "name": "Radio Noordzee (192k)",
+        "lat": 51.22623789457001,
+        "lng": 2.916183471679688,
+        "votes": 8,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "56340d3f-e15f-4588-a4d3-c465567cc1e9",
+      "action": "add",
+      "data": {
+        "name": "firma lomp en onbenullig",
+        "lat": 52.90843011112832,
+        "lng": 6.932265758514404,
+        "votes": 0,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "ec7f9536-9cb2-4112-9f0a-b76c27bd3211",
+      "action": "add",
+      "data": {
+        "name": "Classic Pan",
+        "lat": -23.566397469482453,
+        "lng": -46.650813568538766,
+        "votes": 0,
+        "chunk": "chunk_3_3.json"
+      }
+    },
+    {
+      "uuid": "c604cca3-5d67-43d3-acd6-0fbabe86b358",
+      "action": "add",
+      "data": {
+        "name": "Radio Pik 100 FM",
+        "lat": 56.934390018586065,
+        "lng": 24.11765890129749,
+        "votes": 0,
+        "chunk": "chunk_8_5.json"
+      }
+    },
+    {
+      "uuid": "7e194d4b-3d76-46e0-be42-a7f527788927",
+      "action": "add",
+      "data": {
+        "name": "Radio Plus Gent",
+        "lat": 51.00277806411907,
+        "lng": 3.6852318048477177,
+        "votes": 123,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "8e3cdee9-2213-4931-85d2-8d50af2bf1de",
+      "action": "add",
+      "data": {
+        "name": " RADIO DISNEY 95.7 (Pachuca) - 95.7 FM - XHMY-FM - Grupo Siete - Pachuca, Hidalgo",
+        "lat": 20.118446602260708,
+        "lng": -98.74091148376466,
+        "votes": 1,
+        "chunk": "chunk_6_2.json"
+      }
+    },
+    {
+      "uuid": "42f795dc-e6e7-4f2c-8f5b-0f904b221ba6",
+      "action": "add",
+      "data": {
+        "name": "Radio Eagle",
+        "lat": 51.34247824632143,
+        "lng": 5.108546018600465,
+        "votes": 14,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "bf854fd9-1b69-4e20-8277-09532e6591f1",
+      "action": "add",
+      "data": {
+        "name": "Radio Seven 105.84FM, Costa Brava",
+        "lat": 42.43936639265158,
+        "lng": 2.0233344513439637,
+        "votes": 1,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "0ba01ebe-7ec4-4ea1-a768-917d172b6d01",
+      "action": "add",
+      "data": {
+        "name": "MYX Radio",
+        "lat": 18.10757459093614,
+        "lng": 2.1093750000000004,
+        "votes": 4,
+        "chunk": "chunk_6_5.json"
+      }
+    },
+    {
+      "uuid": "c58dadae-01d8-4ce3-ab09-4c0e35dfcf05",
+      "action": "add",
+      "data": {
+        "name": "Nostalgia RAdio",
+        "lat": 35.679609609368605,
+        "lng": -84.90234375000001,
+        "votes": 24,
+        "chunk": "chunk_6_2.json"
+      }
+    },
+    {
+      "uuid": "86a75bc0-431d-4a8a-a4f9-f464a3ca98a3",
+      "action": "add",
+      "data": {
+        "name": "Radio Benelux  Beringen, be",
+        "lat": 51.04749315023354,
+        "lng": 5.226521345895399,
+        "votes": 7,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "c998524b-a7e5-4d7e-8b9f-cf9f7e6c0bb4",
+      "action": "add",
+      "data": {
+        "name": "Amazing Radio UK",
+        "lat": 54.96619405948945,
+        "lng": -1.6033387184143069,
+        "votes": 0,
+        "chunk": "chunk_8_4.json"
+      }
+    },
+    {
+      "uuid": "7a4567af-530b-41c0-a93f-416ac1dbb111",
+      "action": "add",
+      "data": {
+        "name": "Radio Pik 100 FM",
+        "lat": 56.934400661494195,
+        "lng": 24.11757640310809,
+        "votes": 2,
+        "chunk": "chunk_8_5.json"
+      }
+    },
+    {
+      "uuid": "7bfe222c-6b98-4aec-8550-93c491bb2d1f",
+      "action": "add",
+      "data": {
+        "name": "Willy",
+        "lat": 51.212696647853434,
+        "lng": 4.42227065563202,
+        "votes": 121,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "ae8a84fa-a7c9-4699-875f-47608f6d64d8",
+      "action": "add",
+      "data": {
+        "name": "SweetRadio",
+        "lat": 44.598935123316046,
+        "lng": 10.816040039062502,
+        "votes": 0,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "339c6a61-4433-44f9-9fad-20998c512ae4",
+      "action": "add",
+      "data": {
+        "name": "Youtube",
+        "lat": 9.906907502466373,
+        "lng": 33.82221990298802,
+        "votes": 110,
+        "chunk": "chunk_5_5.json"
+      }
+    },
+    {
+      "uuid": "2cbe5b29-320d-4c66-93e1-88913a5dd43f",
+      "action": "add",
+      "data": {
+        "name": "GOD Radio",
+        "lat": 54.693281229292275,
+        "lng": -1.8017578125,
+        "votes": 8,
+        "chunk": "chunk_8_4.json"
+      }
+    },
+    {
+      "uuid": "ef3bdb34-0274-41b7-a8df-c10591ed835d",
+      "action": "add",
+      "data": {
+        "name": "Radio Paloma  Poppel,be",
+        "lat": 51.44375730005648,
+        "lng": 5.043146618031621,
+        "votes": 45,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "01c848bc-d6a3-41b9-9683-57b0e471c340",
+      "action": "add",
+      "data": {
+        "name": "Radio Noordzee Info",
+        "lat": 51.22623789457001,
+        "lng": 2.9141235351562504,
+        "votes": 6,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "341b70d4-8f57-42a8-99d1-7d5aa6604f54",
+      "action": "add",
+      "data": {
+        "name": "Radio K\u00f6ln - Dein HipHop Radio",
+        "lat": 44.46000533679708,
+        "lng": 17.731933593750004,
+        "votes": 12,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "804a9c38-d831-478b-acc5-df20e0740241",
+      "action": "add",
+      "data": {
+        "name": "Radio Pallieter Lier, Be",
+        "lat": 51.13098644740945,
+        "lng": 4.571183992185418,
+        "votes": 7,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "17e85b1e-1eaf-465e-8753-4178e605f7b9",
+      "action": "add",
+      "data": {
+        "name": "Arab Mix 256",
+        "lat": 17.214264312027566,
+        "lng": 29.531250000000004,
+        "votes": 767,
+        "chunk": "chunk_5_5.json"
+      }
+    },
+    {
+      "uuid": "8a15a9d8-9d83-4671-8d43-1b616f63beef",
+      "action": "add",
+      "data": {
+        "name": "057 radio, Zadar, Croatia",
+        "lat": 0.4034730536430754,
+        "lng": 9.439390443294544,
+        "votes": 18,
+        "chunk": "chunk_5_5.json"
+      }
+    },
+    {
+      "uuid": "d798f2f0-f109-4390-aef3-d7bc497d77b1",
+      "action": "add",
+      "data": {
+        "name": " RADIO DISNEY 92.9 (Puebla) - 92.9 FM - XHECD-FM - Grupo Oro Comunicaciones - Puebla, Puebla",
+        "lat": 19.045042902626303,
+        "lng": -98.19828987121583,
+        "votes": 1,
+        "chunk": "chunk_6_2.json"
+      }
+    },
+    {
+      "uuid": "4b1c00b7-53ef-4168-bf8e-1a0fa6a9298c",
+      "action": "add",
+      "data": {
+        "name": "Fox news",
+        "lat": 15.987151551423228,
+        "lng": 36.17187380790711,
+        "votes": 398,
+        "chunk": "chunk_5_6.json"
+      }
+    },
+    {
+      "uuid": "72fa0d1b-8add-4bc4-b616-497346816b4c",
+      "action": "add",
+      "data": {
+        "name": " W DEPORTES 730 (CDMX) - 730 AM - XEX-AM - Radi\u00f3polis - Ciudad de M\u00e9xico",
+        "lat": 19.436409732758413,
+        "lng": -99.1322135925293,
+        "votes": 1,
+        "chunk": "chunk_6_2.json"
+      }
+    },
+    {
+      "uuid": "91589c03-9703-4c27-89b3-3aa56276b716",
+      "action": "add",
+      "data": {
+        "name": "RGR FM 106.5Fm Heist op den Berg, Be",
+        "lat": 51.07679298498963,
+        "lng": 4.734889300662548,
+        "votes": 26,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "aba56ee3-be9c-4b85-add0-c748b679fbfb",
+      "action": "add",
+      "data": {
+        "name": "Jovem Pan BH",
+        "lat": -19.94397075788364,
+        "lng": -43.95656755478389,
+        "votes": 1,
+        "chunk": "chunk_3_3.json"
+      }
+    },
+    {
+      "uuid": "ce06b773-a03c-4c71-b8de-197aff7f6759",
+      "action": "add",
+      "data": {
+        "name": "Radio Appolo, Wiekevorst, be",
+        "lat": 51.101808520186665,
+        "lng": 4.730551361551267,
+        "votes": 5,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "34302034-8a2e-401b-a2fb-92e21cb19fc7",
+      "action": "add",
+      "data": {
+        "name": "BNL",
+        "lat": 51.049641988801255,
+        "lng": 5.147770643234254,
+        "votes": 0,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "c718b733-773a-4156-b70b-293df2ed129e",
+      "action": "add",
+      "data": {
+        "name": "RBS Radio",
+        "lat": 51.0648468625428,
+        "lng": 4.027186632156373,
+        "votes": 20,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "388cf178-1497-40da-a8c0-f2155362a6dd",
+      "action": "add",
+      "data": {
+        "name": "R\u00e1dio Atl\u00e2ntida 94.3 FM - Porto Alegre",
+        "lat": -30.0356921477895,
+        "lng": -51.23046814320644,
+        "votes": 0,
+        "chunk": "chunk_3_3.json"
+      }
+    },
+    {
+      "uuid": "98a09283-8e60-42e0-92c3-c8358d7ed521",
+      "action": "add",
+      "data": {
+        "name": "+Convoy En Vivo (CDMX) - Online - www.convoynetwork.com - Convoy Network - Ciudad de M\u00e9xico",
+        "lat": 19.434143416073223,
+        "lng": -99.1325569152832,
+        "votes": 2,
+        "chunk": "chunk_6_2.json"
+      }
+    },
+    {
+      "uuid": "146d7bfd-1488-47bf-bd1e-112b73671fa3",
+      "action": "add",
+      "data": {
+        "name": "GrootFM",
+        "lat": -25.836763753434777,
+        "lng": 28.179631233215336,
+        "votes": 0,
+        "chunk": "chunk_3_5.json"
+      }
+    },
+    {
+      "uuid": "32f62475-8900-4364-9fee-d1909f06ae2d",
+      "action": "add",
+      "data": {
+        "name": "Gamesboro Radio - Video Game Music 24/7",
+        "lat": 27.98171891564362,
+        "lng": -80.6017674460188,
+        "votes": 131,
+        "chunk": "chunk_6_2.json"
+      }
+    },
+    {
+      "uuid": "f2dd391b-b5d5-447e-bd46-b1439a017e1d",
+      "action": "add",
+      "data": {
+        "name": "Mondello Radio (MRG.fm)",
+        "lat": 40.734770989672406,
+        "lng": -74.02221685275435,
+        "votes": 12,
+        "chunk": "chunk_7_2.json"
+      }
+    },
+    {
+      "uuid": "f9961f66-1b14-4ddc-b8b7-943ca6ac096c",
+      "action": "add",
+      "data": {
+        "name": "R\u00e1dio Quintanares",
+        "lat": -30.03121426042834,
+        "lng": -51.234405934810646,
+        "votes": 1,
+        "chunk": "chunk_3_3.json"
+      }
+    },
+    {
+      "uuid": "c8f77e4e-fb7d-4b4e-9729-6bcb8389ab60",
+      "action": "add",
+      "data": {
+        "name": "Radio Seabreeze",
+        "lat": 53.09171492512083,
+        "lng": 5.825500488281251,
+        "votes": 1,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "777df551-2ce6-4797-a460-de591bcc91c9",
+      "action": "add",
+      "data": {
+        "name": "Splatoon Station Seven",
+        "lat": 43.044,
+        "lng": -76.234,
+        "votes": 40,
+        "chunk": "chunk_7_2.json"
+      }
+    },
+    {
+      "uuid": "a2624589-8279-4be3-9ea0-514dcd29cef8",
+      "action": "add",
+      "data": {
+        "name": "V\u00f5mba FM",
+        "lat": 60.14884057111667,
+        "lng": 24.87953782081604,
+        "votes": 643,
+        "chunk": "chunk_8_5.json"
+      }
+    },
+    {
+      "uuid": "230505d5-eb2a-48fd-87fd-d10d1bc7f0dc",
+      "action": "add",
+      "data": {
+        "name": "Radio Lagoshevtsi",
+        "lat": 44.00088453394063,
+        "lng": 22.866818904876713,
+        "votes": 196,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "6d586733-f2d6-4a76-b96c-5f28f2e3ea1d",
+      "action": "add",
+      "data": {
+        "name": "DNA FM JEPARA",
+        "lat": 52.629680027062136,
+        "lng": 4.750728607177735,
+        "votes": 31,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "0ed0b12c-4102-4607-b99b-a596b3b3bea1",
+      "action": "add",
+      "data": {
+        "name": "Radio Appolo",
+        "lat": 51.10651298458098,
+        "lng": 4.7851037979125985,
+        "votes": 12,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "c89e0869-1247-4d43-9a96-84a4e1524b0b",
+      "action": "add",
+      "data": {
+        "name": "Willy Class X",
+        "lat": 51.212713450041704,
+        "lng": 4.42227065563202,
+        "votes": 79,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "ae600421-cec3-4913-87d6-ff3669498de1",
+      "action": "add",
+      "data": {
+        "name": "Accent Radio",
+        "lat": 51.005088697532535,
+        "lng": 3.885984420776368,
+        "votes": 16,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "4cb94b99-ff06-4521-b643-a78bf272dbe3",
+      "action": "add",
+      "data": {
+        "name": "Jovem Pan BH",
+        "lat": -19.94394352720082,
+        "lng": -43.956584193061886,
+        "votes": 0,
+        "chunk": "chunk_3_3.json"
+      }
+    },
+    {
+      "uuid": "2111b728-51b8-4f6c-b1f4-cc755af881de",
+      "action": "add",
+      "data": {
+        "name": "Radio CORAX Halle (trocken 160kbps VBR)",
+        "lat": 9.635827631626748,
+        "lng": 39.42595124244691,
+        "votes": 10,
+        "chunk": "chunk_5_6.json"
+      }
+    },
+    {
+      "uuid": "5123e4e6-2bc6-4e6e-9532-914a5b387c1e",
+      "action": "add",
+      "data": {
+        "name": "Dance Revolution",
+        "lat": 54.97394532687015,
+        "lng": -1.6131877899169924,
+        "votes": 1,
+        "chunk": "chunk_8_4.json"
+      }
+    },
+    {
+      "uuid": "f9bc14bf-6600-4eba-8690-3124a80624ac",
+      "action": "add",
+      "data": {
+        "name": "Radio Valencia 105 FM - Meer, Be",
+        "lat": 51.44623933226636,
+        "lng": 4.737594630752775,
+        "votes": 10,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "4163f500-a509-4a0b-bc51-21a65504cdd0",
+      "action": "add",
+      "data": {
+        "name": "Radio Christina 106.1 FM - Heist o/d Berg , Be",
+        "lat": 51.0766889249964,
+        "lng": 4.735162656612625,
+        "votes": 14,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "74288ff4-a65a-489f-a742-3b25513b3c34",
+      "action": "add",
+      "data": {
+        "name": "Rem\u00e9nys\u00e9g Hangja R\u00e1di\u00f3",
+        "lat": 45.77978435919219,
+        "lng": 24.78515625,
+        "votes": 14,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "bb2d8310-f52c-4848-ad93-0bbb1b0b915b",
+      "action": "add",
+      "data": {
+        "name": "Love Da Beat Radio",
+        "lat": 51.414074391841496,
+        "lng": -0.05204021930694581,
+        "votes": 0,
+        "chunk": "chunk_7_4.json"
+      }
+    },
+    {
+      "uuid": "ce72ed25-202f-4e8d-9198-998a16c6be59",
+      "action": "add",
+      "data": {
+        "name": "DAX FM RADIO",
+        "lat": 51.04139389812637,
+        "lng": 4.7900390625,
+        "votes": 4,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "fbd8437c-f269-419f-b99a-863c930e522f",
+      "action": "add",
+      "data": {
+        "name": "DooBeeSummer",
+        "lat": 51.22666790215268,
+        "lng": 2.9141235351562504,
+        "votes": 2,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "32269fbf-4191-40ae-ae41-2d9ecb936c0e",
+      "action": "add",
+      "data": {
+        "name": "'t Is Vloms",
+        "lat": 43.657471302616834,
+        "lng": -79.39407348632814,
+        "votes": 38,
+        "chunk": "chunk_7_2.json"
+      }
+    },
+    {
+      "uuid": "ecbe92bf-a35b-439f-8bcf-55da0ece14ee",
+      "action": "add",
+      "data": {
+        "name": "BRTV\u5317\u4eac\u97f3\u4e50\u5e7f\u64ad",
+        "lat": 40.1802832172859,
+        "lng": 40.20996093750001,
+        "votes": 166,
+        "chunk": "chunk_7_6.json"
+      }
+    },
+    {
+      "uuid": "92e54586-a480-4e8b-9771-07a1879e4985",
+      "action": "add",
+      "data": {
+        "name": "Mooi Radio 106.6 FM   Mechelen,be",
+        "lat": 51.02550020034451,
+        "lng": 4.49024128194874,
+        "votes": 21,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "5ede37ba-a332-4607-b0c6-2469318c3649",
+      "action": "add",
+      "data": {
+        "name": "Topradio TopBam",
+        "lat": 51.05379380786208,
+        "lng": 3.724966049194336,
+        "votes": 107,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "560e0caf-8e29-42ac-91c9-a37f71625ffc",
+      "action": "add",
+      "data": {
+        "name": "Topradio TopRetroArena",
+        "lat": 51.053221907417154,
+        "lng": 3.724365234375,
+        "votes": 152,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "7ad24348-a4d4-48e1-9293-8d52904244ac",
+      "action": "add",
+      "data": {
+        "name": "Vi Elsker Radio",
+        "lat": 42.553080288955826,
+        "lng": -1.0546875000000002,
+        "votes": 5,
+        "chunk": "chunk_7_4.json"
+      }
+    },
+    {
+      "uuid": "46179eec-fd4c-46e3-87ff-35f84b780d90",
+      "action": "add",
+      "data": {
+        "name": "ART City Radio",
+        "lat": 65.68724135361524,
+        "lng": -175.29228138314704,
+        "votes": 22,
+        "chunk": "chunk_8_0.json"
+      }
+    },
+    {
+      "uuid": "0d67eaf8-97de-4118-8699-31ab23e06099",
+      "action": "add",
+      "data": {
+        "name": "Toptechno",
+        "lat": 51.048301133312265,
+        "lng": 3.7326049804687504,
+        "votes": 28,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "cff46df0-7b0a-4393-b69f-3dd9b50945c4",
+      "action": "add",
+      "data": {
+        "name": "Keygen FM",
+        "lat": 60.37628349582399,
+        "lng": 25.625588893890384,
+        "votes": 0,
+        "chunk": "chunk_8_5.json"
+      }
+    },
+    {
+      "uuid": "f6fb04c5-1328-4b05-96b7-7cb96a7b9bf6",
+      "action": "add",
+      "data": {
+        "name": "PINK",
+        "lat": 51.09400860285411,
+        "lng": 4.275449216365815,
+        "votes": 70,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "4ab3731b-5fe5-4161-ad85-1f4fa4ed9c0b",
+      "action": "add",
+      "data": {
+        "name": "* KARNEVAL || Fasching, Fastnacht, Alaaf, Helau, Jeck, Jeckenparty, Karnevalsparty, Schunkeln, Stimmungsmusik, Feierlaune, Gute-Laune-Hits, Mitsinghits, K\u00f6lsche Hits, Karnevalshits, Rosenmontag, Weiberfastnacht, Stra\u00dfenkarneval, Kost\u00fcmparty, Narrensession, B\u00fcttenrede, Prunksitzung, Apr\u00e8s-Ski, Ballermann, Schlagerparty, Partyklassiker, Festzeltstimmung, Tanzparty, Konfetti, Ausnahmezustand",
+        "lat": 50.93702396685539,
+        "lng": 6.957189503361577,
+        "votes": 2,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "6ccd9e38-cda0-4c2e-8073-fb9080b52ab9",
+      "action": "add",
+      "data": {
+        "name": "RADIO HUAYNA PICCHU",
+        "lat": -10.21113697298739,
+        "lng": -76.28906250000001,
+        "votes": 1,
+        "chunk": "chunk_4_2.json"
+      }
+    },
+    {
+      "uuid": "89c9a736-8592-47e6-8404-bc66438a9f63",
+      "action": "add",
+      "data": {
+        "name": "+Caf\u00e9 Rom\u00e1ntico Radio (MTY) - Online - www.caferomanticoradio.com - Grupo Digital Retroland - Monterrey, Nuevo Le\u00f3n",
+        "lat": 25.680791667045295,
+        "lng": -100.31521797180176,
+        "votes": 3,
+        "chunk": "chunk_6_2.json"
+      }
+    },
+    {
+      "uuid": "c76649db-9464-4c20-af1b-9c0e01004680",
+      "action": "add",
+      "data": {
+        "name": "Christmas Classics",
+        "lat": 39.153420503167254,
+        "lng": -104.34226237213434,
+        "votes": 377,
+        "chunk": "chunk_7_2.json"
+      }
+    },
+    {
+      "uuid": "23cc41c2-3667-474f-a247-2da5092d786b",
+      "action": "add",
+      "data": {
+        "name": "Chillax FM",
+        "lat": 56.934581443136246,
+        "lng": 24.117345664878844,
+        "votes": 1,
+        "chunk": "chunk_8_5.json"
+      }
+    },
+    {
+      "uuid": "87069ec6-7cfc-446d-b1be-e56c8b8d2287",
+      "action": "add",
+      "data": {
+        "name": "DLF aktuelle Presseschau",
+        "lat": 50.89339778855447,
+        "lng": 6.967622637748718,
+        "votes": 30,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "670827c3-b66b-4d60-a4ea-5d4b993e79a0",
+      "action": "add",
+      "data": {
+        "name": "R\u00e1dio Local SIVB",
+        "lat": -7.997996002283397,
+        "lng": -35.03938883543015,
+        "votes": 1,
+        "chunk": "chunk_4_4.json"
+      }
+    },
+    {
+      "uuid": "ce858ea9-f57e-49f3-b977-952ced75c4d5",
+      "action": "add",
+      "data": {
+        "name": "Moody Praise & Worship",
+        "lat": 53.12040528310657,
+        "lng": -93.8671875,
+        "votes": 31,
+        "chunk": "chunk_7_2.json"
+      }
+    },
+    {
+      "uuid": "b85f1a0a-035e-4724-8b18-805e8dbcd13b",
+      "action": "add",
+      "data": {
+        "name": "MyFM Perth",
+        "lat": -31.93251769323142,
+        "lng": 115.86895745671768,
+        "votes": 4,
+        "chunk": "chunk_3_8.json"
+      }
+    },
+    {
+      "uuid": "262618b1-04fc-468f-b267-5d6c01a5dc07",
+      "action": "add",
+      "data": {
+        "name": "Omroep Neteland",
+        "lat": 51.12702515134834,
+        "lng": 4.629699516103273,
+        "votes": 11,
+        "chunk": "chunk_7_5.json"
+      }
+    },
+    {
+      "uuid": "31fc7950-eb66-4d44-beee-8c5397f8080b",
+      "action": "delete"
+    },
+    {
+      "uuid": "9e5b4a8c-6738-4a2a-8b03-8bd2b4858f23",
+      "action": "delete"
+    },
+    {
+      "uuid": "a3d62cb5-57a3-4f9f-8506-a816eb968d25",
+      "action": "delete"
+    },
+    {
+      "uuid": "5d24639d-bbe8-47dc-b53d-527ecd6583e1",
+      "action": "delete"
+    },
+    {
+      "uuid": "388c7f4c-9911-49e0-b7c9-3643c1373003",
+      "action": "delete"
+    },
+    {
+      "uuid": "7c22650e-82d6-453f-b61d-f9fdc4862bbc",
+      "action": "delete"
+    },
+    {
+      "uuid": "94ccfb6e-3d68-4ec0-a106-908ad7b85292",
+      "action": "delete"
+    },
+    {
+      "uuid": "7ffc5fad-14f0-4a02-8610-daac4ef3c212",
+      "action": "delete"
+    },
+    {
+      "uuid": "4b5f1134-3ba9-4cfc-873e-583403735d20",
+      "action": "delete"
+    },
+    {
+      "uuid": "912ed691-5054-4316-a7af-3c5ec7cbc120",
+      "action": "delete"
+    },
+    {
+      "uuid": "07cdff02-57c7-46ef-8a7c-33ead8434b12",
+      "action": "delete"
+    },
+    {
+      "uuid": "d168c5ba-9bf4-47c7-9609-b5134c90b62d",
+      "action": "delete"
+    },
+    {
+      "uuid": "caa4aa2c-d32b-45d6-8e7a-145590006d83",
+      "action": "delete"
+    },
+    {
+      "uuid": "4ee8e52f-5dad-4975-b48d-bb9950982119",
+      "action": "delete"
+    },
+    {
+      "uuid": "1e71ec6f-b345-4f19-8025-f26a4d787f86",
+      "action": "delete"
+    },
+    {
+      "uuid": "f28d16cd-4515-43ed-9cc8-c25e56190e23",
+      "action": "delete"
+    },
+    {
+      "uuid": "d08ed5fb-51c3-4aa1-8fe6-4c7f81e9430e",
+      "action": "delete"
+    },
+    {
+      "uuid": "5c663d47-2e30-4b3b-9e84-ed9a2fd4ef84",
+      "action": "delete"
+    },
+    {
+      "uuid": "957adb0b-6f0e-463b-b2b3-abe618720540",
+      "action": "delete"
+    },
+    {
+      "uuid": "63928282-2cf2-4d9c-9f67-f71aed5f3fdc",
+      "action": "delete"
+    },
+    {
+      "uuid": "605b2521-e764-42ba-8be0-473fc096a3b3",
+      "action": "delete"
+    },
+    {
+      "uuid": "79225ba4-8f30-44fd-bccd-6c963432ff38",
+      "action": "delete"
+    },
+    {
+      "uuid": "fffa0320-34a0-406e-b3d1-3e93dd2c630d",
+      "action": "delete"
+    },
+    {
+      "uuid": "80cc7186-2384-4e71-bed9-756108581acc",
+      "action": "delete"
+    },
+    {
+      "uuid": "88117284-ed92-48ee-92fc-bb74d2843f34",
+      "action": "delete"
+    },
+    {
+      "uuid": "0fe23970-8af8-4492-962f-7db0803fed6a",
+      "action": "delete"
+    },
+    {
+      "uuid": "411d453c-5a42-4895-9f20-3284d0f9b6f3",
+      "action": "delete"
+    },
+    {
+      "uuid": "7aa55185-af26-4125-9ebc-4ba0b3aeeddf",
+      "action": "delete"
+    },
+    {
+      "uuid": "9ea9e867-b43e-4b86-bba7-6f0f5783a2f6",
+      "action": "delete"
+    },
+    {
+      "uuid": "719803ed-2dc7-4c45-ae41-c29d3481e253",
+      "action": "delete"
+    },
+    {
+      "uuid": "396e5702-5ea5-46ba-89fd-bca05c9df845",
+      "action": "delete"
+    },
+    {
+      "uuid": "ca5f7478-6631-40d8-84b7-cc60ae3acf3d",
+      "action": "delete"
+    },
+    {
+      "uuid": "da2e57f2-fa35-41b5-87c9-10572177e394",
+      "action": "delete"
+    },
+    {
+      "uuid": "e35681de-deaf-4803-88a4-f6ad38da5006",
+      "action": "delete"
+    },
+    {
+      "uuid": "b7e57990-b3ad-44a9-9458-2f8f58dcbde2",
+      "action": "delete"
+    },
+    {
+      "uuid": "ccdc8e96-f3bc-4703-86ba-5b6aa0c92304",
+      "action": "delete"
+    },
+    {
+      "uuid": "9c5b9610-805c-478f-ac5d-b6b561b78cab",
+      "action": "delete"
+    },
+    {
+      "uuid": "802ac2f7-1d01-4ed5-9d1c-2d4ad19e70fa",
+      "action": "delete"
+    },
+    {
+      "uuid": "5cde3f39-c6a5-4b8b-8dce-c1b8ee13f4a7",
+      "action": "delete"
+    },
+    {
+      "uuid": "7e698592-50bf-49f2-b610-b2784f226776",
+      "action": "delete"
+    },
+    {
+      "uuid": "a9bcf608-8352-4d8b-aac3-f6315e62d549",
+      "action": "delete"
+    },
+    {
+      "uuid": "89f627f8-7e57-4074-ba9c-1ccdb7bff4f0",
+      "action": "delete"
+    },
+    {
+      "uuid": "614eccdb-d268-4214-993b-dc3e076a02b4",
+      "action": "delete"
+    },
+    {
+      "uuid": "ce944cfa-9ba9-4e9b-98fe-e1045a4f9df6",
+      "action": "delete"
+    },
+    {
+      "uuid": "d89affc4-3050-44eb-9cdf-793e9e9af4b0",
+      "action": "delete"
+    },
+    {
+      "uuid": "8683dd56-91aa-4f02-88ad-8fa4dc5ee28a",
+      "action": "delete"
+    },
+    {
+      "uuid": "f1daf4ef-d9dc-45f3-9c85-90b801cdf865",
+      "action": "delete"
+    },
+    {
+      "uuid": "dec88d4d-39bc-4e53-8aca-3cb763536bab",
+      "action": "delete"
+    },
+    {
+      "uuid": "3bd46a05-e589-4263-8eb9-680e45400947",
+      "action": "delete"
+    },
+    {
+      "uuid": "820b2a8f-67cd-42c9-a7d7-db3517c3173d",
+      "action": "delete"
+    },
+    {
+      "uuid": "fe95987a-fdfc-4d4d-9ee2-0efa4625f74b",
+      "action": "delete"
+    },
+    {
+      "uuid": "f07ecee0-91b1-4d3a-9d0e-fd4769d205fa",
+      "action": "delete"
+    },
+    {
+      "uuid": "c8eb2711-c20c-4148-9200-44e9e654657a",
+      "action": "delete"
+    },
+    {
+      "uuid": "41a4c385-b453-41d1-9269-329589ded18a",
+      "action": "delete"
+    },
+    {
+      "uuid": "623382d6-26f9-47cb-b134-d277b43a3712",
+      "action": "delete"
+    },
+    {
+      "uuid": "4a382d48-2c06-4151-8eb4-080f6d284045",
+      "action": "delete"
+    },
+    {
+      "uuid": "b06694cb-a5ef-4ea3-a176-b3378b5efc89",
+      "action": "delete"
+    },
+    {
+      "uuid": "e3355b31-c4af-4d3f-a94b-909b4370057a",
+      "action": "delete"
+    },
+    {
+      "uuid": "c320801b-7d2f-493b-af29-4f37b83bb112",
+      "action": "delete"
+    },
+    {
+      "uuid": "d6b93a07-6fd0-4660-b05b-7a8eae7371ec",
+      "action": "delete"
+    },
+    {
+      "uuid": "313dbd5d-f9f3-474a-82cc-1b5472676982",
+      "action": "delete"
+    },
+    {
+      "uuid": "54eec2ef-54a2-4190-af4d-762f2b5001ec",
+      "action": "delete"
+    },
+    {
+      "uuid": "e82b3c2b-665b-4745-82f2-990195dd8759",
+      "action": "delete"
+    },
+    {
+      "uuid": "10010d86-b973-4d28-af1d-f11902262f46",
+      "action": "delete"
+    },
+    {
+      "uuid": "aefe2739-330f-4c41-91d9-7ce916872a67",
+      "action": "delete"
+    },
+    {
+      "uuid": "2b5138e3-c271-47d4-9fd3-0928ffa63a60",
+      "action": "delete"
+    },
+    {
+      "uuid": "6efe0ad3-0ca7-4da8-a55e-866adfdaad21",
+      "action": "delete"
+    },
+    {
+      "uuid": "74cbce65-6633-4b90-87c8-573597683404",
+      "action": "delete"
+    },
+    {
+      "uuid": "6cbaa6b6-bc85-4f67-924d-1f1027c67ca4",
+      "action": "delete"
+    },
+    {
+      "uuid": "761b40cb-4856-4bad-b7ea-ce83b5041789",
+      "action": "delete"
     }
   ]
 }
